@@ -1,4 +1,3 @@
-### Hi there 👋
 # 42 Projects
 
 [<kbd> ***Libft*** </kbd>][l1]
