@@ -3,7 +3,7 @@
 [<kbd> ***Libft*** </kbd>][l1]
 [<kbd> ***Printf*** </kbd>][l2]
 [<kbd> ***GetNextLine*** </kbd>][l3]
-[<kbd> ***big Libft*** </kbd>][l4]
+[<kbd> ***big libft*** </kbd>][l4]
 [<kbd> ***FdF*** </kbd>][l5]
 [<kbd> ***push_swap*** </kbd>][l6]
 [<kbd> ***Pipex*** </kbd>][l7]
