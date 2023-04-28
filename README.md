@@ -5,7 +5,7 @@
 [<kbd> ***GetNextLine*** </kbd>][l3]
 [<kbd> ***big Libft*** </kbd>][l4]
 [<kbd> ***FdF*** </kbd>][l5]
-[<kbd> ***Pushswap*** </kbd>][l6]
+[<kbd> ***push_swap*** </kbd>][l6]
 [<kbd> ***Pipex*** </kbd>][l7]
 [<kbd> ***Minishell*** </kbd>][l8]
 [<kbd> ***MiniRT*** </kbd>][l9]
