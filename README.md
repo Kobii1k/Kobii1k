@@ -9,7 +9,6 @@
 [<kbd> ***Pipex*** </kbd>][l7]
 [<kbd> ***Philosophers*** </kbd>][l10]
 [<kbd> ***Minishell*** </kbd>][l8]
-[<kbd> ***MiniRT*** </kbd>][l9]
 
 [l1]: https://github.com/Kobii1k/Libft
 [l2]: https://github.com/Kobii1k/Printf
@@ -19,7 +18,6 @@
 [l6]: https://github.com/Kobii1k/push_swap
 [l7]: https://github.com/Kobii1k/Pipex
 [l8]: https://github.com/Cpapot/MiniShell
-[l9]: https://github.com/Kobii1k/miniRT
 [l10]: https://github.com/Kobii1k/Philosophers
 
 # Others
