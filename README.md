@@ -1,4 +1,3 @@
-[l1]: https://github.com/Kobii1k/Libft
 [l2]: https://github.com/Kobii1k/Printf
 [l3]: https://github.com/Kobii1k/GNL
 [l4]: https://github.com/Kobii1k/big_Libft
@@ -11,7 +10,7 @@
 
 | 42 Projects | Others |
 | :----: | :----: |
-| [<kbd> ***Libft*** </kbd>][l1] [<kbd> ***Printf*** </kbd>][l2] [<kbd> ***GetNextLine*** </kbd>][l3] [<kbd> ***big libft*** </kbd>][l4] [<kbd> ***FdF*** </kbd>][l5] [<kbd> ***push_swap*** </kbd>][l6] [<kbd> ***Pipex*** </kbd>][l7] [<kbd> ***Philosophers*** </kbd>][l10] [<kbd> ***Minishell*** </kbd>][l8] | [<kbd> ***Speedrunners-remake*** </kbd>][l] |
+| [<kbd> ***Printf*** </kbd>][l2] [<kbd> ***GetNextLine*** </kbd>][l3] [<kbd> ***libft*** </kbd>][l4] [<kbd> ***FdF*** </kbd>][l5] [<kbd> ***push_swap*** </kbd>][l6] [<kbd> ***Pipex*** </kbd>][l7] [<kbd> ***Philosophers*** </kbd>][l10] [<kbd> ***Minishell*** </kbd>][l8] | [<kbd> ***Speedrunners-remake*** </kbd>][l] |
 
 #
 
