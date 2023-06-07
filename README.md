@@ -25,3 +25,11 @@
 [<kbd> ***Speedrunners-remake*** </kbd>][l]
 
 [l]: https://github.com/Kobii1k/SpeedRunners-2D-Platformer
+
+# Connect
+
+<a href="https://www.linkedin.com/in/maxens-gagne/" target="_blank">
+  <img align="center" 
+       src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+       alt="linkedin: Maxens GAGNE"
+  />
