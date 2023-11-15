@@ -9,10 +9,14 @@
 [l10]: https://github.com/Kobii1k/Cub3d
 [l]: https://github.com/Kobii1k/SpeedRunners-2D-Platformer
 [l21]: https://github.com/Kobii1k/cpp00
+[l22]: https://github.com/Kobii1k/cpp01
+[l23]: https://github.com/Kobii1k/cpp02
+[l24]: https://github.com/Kobii1k/cpp03
+[l25]: https://github.com/Kobii1k/cpp04
 
-| 42 C | 42 C++ | Others |
+| 42 <img align="center" height="24" width="24" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"> | 42 <img align="center" height="24" width="24" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c"> | Others |
 | :----: | :----: | :----: |
-|[<kbd> ***libft*** </kbd>][l4] [<kbd> ***Printf*** </kbd>][l2] [<kbd> ***GetNextLine*** </kbd>][l3] [<kbd> ***FdF*** </kbd>][l5] [<kbd> ***push_swap*** </kbd>][l6] [<kbd> ***Pipex*** </kbd>][l7] [<kbd> ***Minishell*** </kbd>][l8] [<kbd> ***Philosophers*** </kbd>][l9] [<kbd> ***Cub3d*** </kbd>][l10] | [<kbd> ***cpp00*** </kbd>][l21] | [<kbd> ***Speedrunners-remake*** </kbd>][l] |
+|[<kbd> ***libft*** </kbd>][l4] [<kbd> ***Printf*** </kbd>][l2] [<kbd> ***GetNextLine*** </kbd>][l3] [<kbd> ***FdF*** </kbd>][l5] [<kbd> ***push_swap*** </kbd>][l6] [<kbd> ***Pipex*** </kbd>][l7] [<kbd> ***Minishell*** </kbd>][l8] [<kbd> ***Philosophers*** </kbd>][l9] [<kbd> ***Cub3d*** </kbd>][l10] | [<kbd> ***cpp00*** </kbd>][l21] [<kbd> ***cpp01*** </kbd>][l22] [<kbd> ***cpp02*** </kbd>][l23] [<kbd> ***cpp03*** </kbd>][l24] [<kbd> ***cpp04*** </kbd>][l25] | [<kbd> ***Speedrunners-remake*** </kbd>][l] |
 
 #
 
